@@ -19,7 +19,7 @@
 <br>
 
 ## 1. 前言
-> 你正在阅读的[每日LeetCode](https://github.com/aiparkhub/Daily-LeetCode)项目是AiParkHub基于编程艺术构建的实现增强算法创想, 当你在瀚宇宙中不断成长, 这种具有编码表演的里程碑意义就如同于TensorFlow可能会比Android系统更加深远地影响着世界!
+> 你正在阅读的[每日LeetCode](https://github.com/aiparkhub/Daily-LeetCode)项目是AiParkHub基于编程艺术构建的实现增强算法创想, 当你在浩瀚宇宙中不断成长, 这种具有编码表演的里程碑意义就如同于TensorFlow可能会比Android系统更加深远地影响着世界!
 
 ## 2. 思想
 > 针对一个问题, 不断寻找更高效算法, 并予以编程实现;
