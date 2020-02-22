@@ -64,11 +64,7 @@
 - Service Email：<servicehub-711@outlook.com>
 
 
-## 5. The development of the donation project cannot be separated from your support, please ask the developer for a drink ☕Coffee☕!
-![enter image description here](https://www.geekparkhub.com/docs/images/pay.jpg)
-
-
-## 6. License
+## 5. License
  [Apache License Version 2.0](./LICENSE)
  
  ---------

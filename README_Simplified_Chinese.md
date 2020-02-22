@@ -64,12 +64,7 @@
 - System Email：<systemhub-711@outlook.com>
 - Service Email：<servicehub-711@outlook.com>
 
-
-## 5. 捐助 项目的发展离不开你的支持,请开发者喝杯☕Coffee☕吧!
-![enter image description here](https://www.geekparkhub.com/docs/images/pay.jpg)
-
-
-## 6. 开源协议
+## 5. 开源协议
  [Apache License Version 2.0](./LICENSE)
  
  ---------

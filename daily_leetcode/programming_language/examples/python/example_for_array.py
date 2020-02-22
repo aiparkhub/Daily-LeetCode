@@ -16,9 +16,10 @@
 # @GeekDeveloper : JEEP-711
 # @Author : system
 # @Version : 0.2.5
-# @Program :
+# @Program : 定义 数组示例 | Definition array example
 # @File : example_for_array.py
-# @Description :
+# @Description : 实现支持动态扩容, 动态增删改的数组操作
+# Implementation of array operations that support dynamic expansion, dynamic addition, deletion, and modification
 # @Copyright © 2019 - 2020 AIParkHub-Group. All rights reserved.
 
 
@@ -29,6 +30,10 @@ class ArrayExample:
     '''
 
     def __init__(self, capacity: int):
+        '''
+        定义 初始化 方法 | Definition initialization method
+        :param capacity:
+        '''
         self._data = []
         self._capacity = capacity
 
@@ -46,12 +51,24 @@ class ArrayExample:
             yield item
 
     def find(self, index: int) -> object:
+        '''
+        定义 查询数组 方法 | Definition query array method
+        :param index:
+        :return:
+        '''
+
         try:
             return self._data[index]
         except IndexError:
             return None
 
     def delete(self, index: int) -> bool:
+        '''
+        定义 删除数组 方法 | Definition delete array method
+        :param index:
+        :return:
+        '''
+
         try:
             self._data.pop(index)
             return True
@@ -59,18 +76,36 @@ class ArrayExample:
             return False
 
     def insert(self, index: int, value: int) -> bool:
+        '''
+        定义 插入数组 方法 | Define insert array method
+        :param index:
+        :param value:
+        :return:
+        '''
+
         if len(self) >= self._capacity:
             return False
         else:
             return self._data.insert(index, value)
 
     def print_all(self):
+        '''
+        定义 打印数组 方法 | Define print array method
+        :return:
+        '''
+
         for item in self:
             print(item)
 
 
-def test_myarray():
-    array = ArrayExample(5)
+def test_array():
+    '''
+    定义 测试函数 | Definition test function
+    :return:
+    '''
+
+    array = ArrayExample(5)  # 创建对象实例 | Create object instance
+    # 对象实例 调用方法 | Object instance call method
     array.insert(0, 3)
     array.insert(0, 4)
     array.insert(1, 5)
@@ -83,5 +118,7 @@ def test_myarray():
     array.print_all()
 
 
+# 定义 主模块 | Definition Main module
 if __name__ == "__main__":
-    test_myarray()
+    # 调用函数 | Call Function
+    test_array()
