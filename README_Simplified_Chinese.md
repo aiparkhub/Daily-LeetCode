@@ -13,7 +13,7 @@
 
 <br>
 <div align="center">
-<h1>编码表演时间 - 每日LeetCode | 增强算法创想</h1>
+<h2>编码表演时间 - 每日LeetCode | 增强算法创想</h2>
 <img src="resource/group_sign/aiparkhub_group_sign_v2.svg" width="100%" alt="AIParkHub-Group">
 </div>
 <br>

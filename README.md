@@ -12,7 +12,7 @@
 
 <br>
 <div align="center">
-<h1>Coding Show Time - Daily LeetCode | Enhanced Algorithmic Ideas</h1>
+<h2>Coding Show Time - Daily LeetCode | Enhanced Algorithmic Ideas</h2>
 <img src="resource/group_sign/aiparkhub_group_sign_v2.svg" width="100%" alt="AIParkHub-Group">
 </div>
 <br>
