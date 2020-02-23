@@ -1,16 +1,19 @@
 # 👨🏼‍💻 Daily LeetCode 👨🏼‍💻
+<br>
 
 [![Document Update Time](https://img.shields.io/badge/Update%20Time-2020%2F02%2F23-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Language For Simplified Chinese](https://img.shields.io/badge/Document%20Language-Simplified%20Chinese-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_Simplified_Chinese.md)
 [![Document Language For English](https://img.shields.io/badge/Document%20Language-English-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
 [![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/aiparkhub/Daily-LeetCode.svg?style=for-the-badge&logo=adobe-creative-cloud&cacheSeconds=3600)]()
+[![GitHub Release](https://img.shields.io/github/release/aiparkhub/Daily-LeetCode.svg?style=for-the-badge&cacheSeconds=3600)]()
 [![Programming Language For Python](https://img.shields.io/badge/Programming%20Language-Python-blue.svg?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600)]()
 [![Github Organization For AiParkHub](https://img.shields.io/badge/Github%20Organization-aiparkhub-magenta.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&cacheSeconds=3600)](https://github.com/aiparkhub)
 [![WebSite For AiParkHub](https://img.shields.io/badge/WebSite-AIParkHub-yellow.svg?style=for-the-badge&logo=github&cacheSeconds=3600)](https://github.com/aiparkhub)
 [![Geek Developer For jeep711](https://img.shields.io/badge/Geek%20Developer-jeep711-azure2.svg?style=for-the-badge&logo=opsgenie&cacheSeconds=3600)](https://github.com/jeep711)
 
 <br>
+
 <div align="center">
 <h2>Coding For Show Time - Daily LeetCode | Enhanced Algorithmic Ideas</h2>
 <img src="resource/group_sign/aiparkhub_group_sign_v1.svg" width="100%" alt="AiParkHub-Organization" title="AiParkHub-Organization">
