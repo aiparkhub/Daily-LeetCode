@@ -37,12 +37,14 @@
 │   ├── __init__.py
 │   ├── main.py
 │   └── programming_language
-│       ├── java
-│       │   └── examples
-│       ├── python
-│       │   └── examples
-│       └── scala
-│           └── examples
+│       ├── __init__.py
+│       └── examples
+│           ├── __init__.py
+│           ├── java
+│           ├── python
+│           │   ├── __init__.py
+│           │   └── example_for_array.py
+│           └── scala
 ├── docs
 ├── extras
 ├── resource
