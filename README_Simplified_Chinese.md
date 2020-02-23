@@ -5,7 +5,6 @@
 [![文档语言-英文](https://img.shields.io/badge/文档语言-英文-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
 [![开放源码](https://img.shields.io/badge/开放源码-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
 [![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/aiparkhub/Daily-LeetCode.svg?style=for-the-badge&logo=adobe-creative-cloud&cacheSeconds=3600)]()
-<br>
 [![编程语言-Python](https://img.shields.io/badge/编程语言-Python-blue.svg?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600)]()
 [![Github组织-AiParkHub](https://img.shields.io/badge/Github组织-aiparkhub-magenta.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&cacheSeconds=3600)](https://github.com/aiparkhub)
 [![网络站点-AiParkHub](https://img.shields.io/badge/网络站点-AIParkHub-yellow.svg?style=for-the-badge&logo=github&cacheSeconds=3600)](https://github.com/aiparkhub)
