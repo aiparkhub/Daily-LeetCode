@@ -1,20 +1,21 @@
 # 👨🏼‍💻 每日 LeetCode 👨🏼‍💻
 
-[![Travis](https://img.shields.io/badge/更新时间-2020%2F02%2F22-darkorchid.svg)]()
-[![Travis](https://img.shields.io/badge/文档语言-简体中文-coral.svg)](./README_Simplified_Chinese.md)
-[![Travis](https://img.shields.io/badge/文档语言-英文-springGreen1.svg)](./README.md)
-[![OpenSource](https://img.shields.io/badge/开放源码-%E2%9D%A4-brightgreen.svg)]()
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/aiparkhub/Daily-LeetCode.svg)]()
+[![文档更新时间](https://img.shields.io/badge/更新时间-2020%2F02%2F23-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
+[![文档语言-简体中文](https://img.shields.io/badge/文档语言-简体中文-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_Simplified_Chinese.md)
+[![文档语言-英文](https://img.shields.io/badge/文档语言-英文-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
+[![开放源码](https://img.shields.io/badge/开放源码-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
+[![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/aiparkhub/Daily-LeetCode.svg?style=for-the-badge&logo=adobe-creative-cloud&cacheSeconds=3600)]()
 <br>
-[![Travis](https://img.shields.io/badge/编程语言-Python-blue.svg)]()
-[![Travis](https://img.shields.io/badge/Github组织-aiparkhub-magenta.svg)](https://github.com/aiparkhub)
-[![Travis](https://img.shields.io/badge/网络站点-AIParkHub-lightsteelblue.svg)](https://github.com/aiparkhub)
-[![Travis](https://img.shields.io/badge/极客开发者-jeep711-green.svg)](https://github.com/jeep711)
+[![编程语言-Python](https://img.shields.io/badge/编程语言-Python-blue.svg?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600)]()
+[![Github组织-AiParkHub](https://img.shields.io/badge/Github组织-aiparkhub-magenta.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&cacheSeconds=3600)](https://github.com/aiparkhub)
+[![网络站点-AiParkHub](https://img.shields.io/badge/网络站点-AIParkHub-yellow.svg?style=for-the-badge&logo=github&cacheSeconds=3600)](https://github.com/aiparkhub)
+[![极客开发者-jeep711](https://img.shields.io/badge/极客开发者-jeep711-azure2.svg?style=for-the-badge&logo=opsgenie&cacheSeconds=3600)](https://github.com/jeep711)
+
 
 <br>
 <div align="center">
 <h2>编码表演时间 - 每日LeetCode | 增强算法创想</h2>
-<img src="resource/group_sign/aiparkhub_group_sign_v2.svg" width="100%" alt="AIParkHub-Group">
+<img src="resource/group_sign/aiparkhub_group_sign_v1.svg" width="100%" alt="AIParkHub-Group" title="AiParkHub-Organization">
 </div>
 <br>
 
@@ -43,8 +44,6 @@
 │           ├── __init__.py
 │           ├── java
 │           ├── python
-│           │   ├── __init__.py
-│           │   └── example_for_array.py
 │           └── scala
 ├── docs
 ├── extras
