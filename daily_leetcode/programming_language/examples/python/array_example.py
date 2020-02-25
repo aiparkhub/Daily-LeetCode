@@ -20,7 +20,7 @@
 # @File : array_example.py
 # @Description : 实现支持动态扩容, 动态增删改的数组操作
 # Implementation of array operations that support dynamic expansion, dynamic addition, deletion, and modification
-# @Copyright © 2019 - 2020 AIParkHub-Group. All rights reserved.
+# @Copyright © 2019 - 2020 AIParkHub-Organization. All rights reserved.
 
 
 class ArrayExample:

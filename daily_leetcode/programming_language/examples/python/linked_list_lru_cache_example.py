@@ -19,7 +19,7 @@
 # @Program : 定义 链表 lru缓存 示例 | Definition LinkList lru cache example
 # @File : linked_list_lru_cache_example.py
 # @Description : 定义 链表示例 | Definition LinkList example
-# @Copyright © 2019 - 2020 AIParkHub-Group. All rights reserved.
+# @Copyright © 2019 - 2020 AIParkHub-Organization. All rights reserved.
 
 
 """
