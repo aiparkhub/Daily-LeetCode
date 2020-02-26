@@ -9,7 +9,7 @@
 # Website | https://www.hackerparkhub.org
 # Description | In the spirit of fearless exploration, create unknown technology and worship of technology.
 #
-# AIParkHub | 人工智能公园
+# AiParkHub | 人工智能公园
 # Website | https://github.com/aiparkhub
 # Description | Embark on the wave of AI and push the limits of machine intelligence.
 #
@@ -20,7 +20,7 @@
 # @File : array_example.py
 # @Description : 实现支持动态扩容, 动态增删改的数组操作
 # Implementation of array operations that support dynamic expansion, dynamic addition, deletion, and modification
-# @Copyright © 2019 - 2020 AIParkHub-Organization. All rights reserved.
+# @Copyright © 2019 - 2020 AiParkHub-Organization. All rights reserved.
 
 
 class ArrayExample:

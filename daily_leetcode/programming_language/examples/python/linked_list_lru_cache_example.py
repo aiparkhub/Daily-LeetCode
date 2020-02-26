@@ -9,7 +9,7 @@
 # Website | https://www.hackerparkhub.org
 # Description | In the spirit of fearless exploration, create unknown technology and worship of technology.
 #
-# AIParkHub | 人工智能公园
+# AiParkHub | 人工智能公园
 # Website | https://github.com/aiparkhub
 # Description | Embark on the wave of AI and push the limits of machine intelligence.
 #
@@ -19,7 +19,7 @@
 # @Program : 定义 链表 lru缓存 示例 | Definition LinkList lru cache example
 # @File : linked_list_lru_cache_example.py
 # @Description : 定义 链表示例 | Definition LinkList example
-# @Copyright © 2019 - 2020 AIParkHub-Organization. All rights reserved.
+# @Copyright © 2019 - 2020 AiParkHub-Organization. All rights reserved.
 
 
 """
