@@ -1,7 +1,7 @@
 # 👨🏼‍💻 Daily LeetCode 👨🏼‍💻
 <br>
 
-[![Document Update Time](https://img.shields.io/badge/Update%20Time-2020%2F02%2F27-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
+[![Document Update Time](https://img.shields.io/badge/Update%20Time-2020%2F02%2F28-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Language For Simplified Chinese](https://img.shields.io/badge/Document%20Language-Simplified%20Chinese-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_Simplified_Chinese.md)
 [![Document Language For English](https://img.shields.io/badge/Document%20Language-English-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
