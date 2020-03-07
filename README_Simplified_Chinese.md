@@ -1,7 +1,7 @@
 # 👨🏼‍💻 每日 LeetCode 👨🏼‍💻
 <br>
 
-[![文档更新时间](https://img.shields.io/badge/更新时间-2020%2F03%2F06-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
+[![文档更新时间](https://img.shields.io/badge/更新时间-2020%2F03%2F07-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![文档语言-简体中文](https://img.shields.io/badge/文档语言-简体中文-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_Simplified_Chinese.md)
 [![文档语言-英文](https://img.shields.io/badge/文档语言-英文-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
 [![开放源码](https://img.shields.io/badge/开放源码-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
